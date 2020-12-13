@@ -1,8 +1,8 @@
 {
   "name": "DSHFirstPrint",
-  "version": "0.1.0",
-  "summary": "A short description of DSHFirstPrint.",
-  "description": "TODO: Add long description of the pod here.",
+  "version": "0.0.1",
+  "summary": "Implemented firstPrint method.",
+  "description": "Home task 3. Implemented firstPrint method.",
   "homepage": "https://github.com/budulayreturns/DSHFirstPrint",
   "license": {
     "type": "MIT",
@@ -13,10 +13,11 @@
   },
   "source": {
     "git": "https://github.com/budulayreturns/DSHFirstPrint.git",
-    "tag": "0.1.0"
+    "tag": "0.0.1"
   },
   "platforms": {
-    "ios": "9.0"
+    "ios": "11.0"
   },
-  "source_files": "DSHFirstPrint/Classes/**/*"
+  "source_files": "DSHFirstPrint/Classes",
+  "frameworks": "Foundation"
 }

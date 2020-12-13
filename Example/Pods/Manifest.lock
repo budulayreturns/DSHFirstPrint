@@ -1,5 +1,5 @@
 PODS:
-  - DSHFirstPrint (0.1.0)
+  - DSHFirstPrint (0.0.1)
 
 DEPENDENCIES:
   - DSHFirstPrint (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  DSHFirstPrint: bce9374c6ea24fd8832cd3142b5c20e4a7e6a404
+  DSHFirstPrint: 43a3f284c242d0e47d81319cc8dc7ae19b3bc54a
 
-PODFILE CHECKSUM: 930948ff0aad572b9e49a92ffa0364115cbc8098
+PODFILE CHECKSUM: 0dcc20082537a647ea2b2eb9710e10906e0ea6b5
 
 COCOAPODS: 1.9.3
