@@ -2,12 +2,13 @@ use_frameworks!
 
 platform :ios, '11.0'
 
+
 target 'DSHFirstPrint_Example' do
   pod 'DSHFirstPrint', :path => '../'
-
+  pod 'DSHSecondPrint', :git => 'git@github.com:budulayreturns/DSHSecondPrint.git'
+ 
   target 'DSHFirstPrint_Tests' do
     inherit! :search_paths
-
     
   end
 end

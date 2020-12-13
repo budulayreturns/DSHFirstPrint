@@ -10,11 +10,10 @@ import UIKit
 import DSHFirstPrint
 
 class ViewController: UIViewController {
-
     override func viewDidLoad() {
         super.viewDidLoad()
-        printFirst()
-        
+        Print.printFirst()
+        Print.printSecond()
     }
 }
 

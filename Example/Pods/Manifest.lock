@@ -1,16 +1,27 @@
 PODS:
-  - DSHFirstPrint (0.0.1)
+  - DSHFirstPrint (0.0.1):
+    - DSHSecondPrint
+  - DSHSecondPrint (0.0.1)
 
 DEPENDENCIES:
   - DSHFirstPrint (from `../`)
+  - "DSHSecondPrint (from `git@github.com:budulayreturns/DSHSecondPrint.git`)"
 
 EXTERNAL SOURCES:
   DSHFirstPrint:
     :path: "../"
+  DSHSecondPrint:
+    :git: "git@github.com:budulayreturns/DSHSecondPrint.git"
+
+CHECKOUT OPTIONS:
+  DSHSecondPrint:
+    :commit: fb74bc7d5ae9749bf6ce1dd03bd04e773657f0e1
+    :git: "git@github.com:budulayreturns/DSHSecondPrint.git"
 
 SPEC CHECKSUMS:
-  DSHFirstPrint: 43a3f284c242d0e47d81319cc8dc7ae19b3bc54a
+  DSHFirstPrint: 57edfff302c6f5d90b34cb3913d7c9639a78c4d7
+  DSHSecondPrint: d65a0496d0c9a2b8f706a2ae376fa707e5955293
 
-PODFILE CHECKSUM: 0dcc20082537a647ea2b2eb9710e10906e0ea6b5
+PODFILE CHECKSUM: de3b560b5503b5bd3ba5dc2871a263d936c933ba
 
 COCOAPODS: 1.9.3

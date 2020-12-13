@@ -1,0 +1,21 @@
+PODS:
+  - DSHSecondPrint (0.0.1)
+
+DEPENDENCIES:
+  - "DSHSecondPrint (from `git@github.com:budulayreturns/DSHSecondPrint.git`)"
+
+EXTERNAL SOURCES:
+  DSHSecondPrint:
+    :git: "git@github.com:budulayreturns/DSHSecondPrint.git"
+
+CHECKOUT OPTIONS:
+  DSHSecondPrint:
+    :commit: fb74bc7d5ae9749bf6ce1dd03bd04e773657f0e1
+    :git: "git@github.com:budulayreturns/DSHSecondPrint.git"
+
+SPEC CHECKSUMS:
+  DSHSecondPrint: d65a0496d0c9a2b8f706a2ae376fa707e5955293
+
+PODFILE CHECKSUM: 7617f0405276207313006b1dc4910492fcbfa8bd
+
+COCOAPODS: 1.9.3

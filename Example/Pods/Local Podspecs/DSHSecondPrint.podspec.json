@@ -1,0 +1,25 @@
+{
+  "name": "DSHSecondPrint",
+  "version": "0.0.1",
+  "summary": "Implementing printSecond method.",
+  "description": "Home task 3. Implementing printSecond method.",
+  "homepage": "https://github.com/budulayreturns/DSHSecondPrint",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "budulayreturns": "budulayreturns@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/budulayreturns/DSHSecondPrint.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "DSHSecondPrint/Classes",
+  "frameworks": "Foundation",
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}

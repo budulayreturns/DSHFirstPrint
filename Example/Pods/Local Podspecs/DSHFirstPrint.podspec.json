@@ -19,5 +19,12 @@
     "ios": "11.0"
   },
   "source_files": "DSHFirstPrint/Classes",
-  "frameworks": "Foundation"
+  "frameworks": "Foundation",
+  "dependencies": {
+    "DSHSecondPrint": [
+
+    ]
+  },
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
 }

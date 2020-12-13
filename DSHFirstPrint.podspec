@@ -38,5 +38,7 @@ Pod::Spec.new do |s|
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   s.frameworks = 'Foundation'
-  s.dependency 'DSHSecondPrint', :git => "git@github.com:budulayreturns/DSHSecondPrint.git"
+  s.dependency 'DSHSecondPrint'
+
+  s.swift_version = "5.0"
 end
